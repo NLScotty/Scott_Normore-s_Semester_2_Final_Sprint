@@ -7,7 +7,7 @@ By happenstance, I came across a w3 tutorial on collapsible sections, and played
 in figma with components that mirrored the look of them, and came up with this page as a result. I'm quite
 proud of the end result, and I have the static page hosted on github pages here:
 
-ADD LINK
+https://nlscotty.github.io/
 
 I really like this end result due to how easy it will be to expand upon once I have
 more stuff to show off. I also like how clean and professional it ended up looking; I'm
